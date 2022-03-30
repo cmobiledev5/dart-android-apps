@@ -1,8 +1,6 @@
 <p align="center">
  <img src="" width=500 align="center">
 </p>
-
-Dart [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.f2prateek.dart/dart/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.f2prateek.dart/dart) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Dart-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1444)[![Build Status](https://travis-ci.org/f2prateek/dart)
 ============
 
 This is the README of the version 3 of Dart & Henson has been released. If you are looking for the README page of Dart & Henson 2, please visit [this wiki page](https://github.com/f2prateek/dart/wiki/Dart-&-Henson-v2-). 
@@ -227,7 +225,7 @@ Credits
 
 The original author of the library is [Prateek Srivastava](https://github.com/f2prateek) who got inspired by the work of [Jake Wharton](https://github.com/jakewharton) on [butter knife](http://jakewharton.github.io/butterknife/).
 
-Later, [Daniel Molinero Reguera](https://github.com/dlemures) and [Stephane NICOLAS](https://github.com/stephanenicolas) contributed Henson in Dart 2, and rewrote the library for Dart 3.
+Later, [Daniel Molinero Reguera](https://github.com/dlemures) and [Stephane NICOLAS] contributed Henson in Dart 2, and rewrote the library for Dart 3.
 
 Logo was designed by [Jibbie R. Eguna(jbeguna04)](https://github.com/jbeguna04)
 
@@ -251,5 +249,3 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-
- [1]: http://repository.sonatype.org/service/local/artifact/maven/redirect?r=central-proxy&g=com.f2prateek.dart&a=dart&v=LATEST
