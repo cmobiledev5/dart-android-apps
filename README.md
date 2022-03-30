@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/f2prateek/dart/master/assets/logo/banner.png" width=500 align="center">
+ <img src="" width=500 align="center">
 </p>
 
 Dart [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.f2prateek.dart/dart/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.f2prateek.dart/dart) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Dart-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1444)[![Build Status](https://travis-ci.org/f2prateek/dart.svg?branch=master)](https://travis-ci.org/f2prateek/dart)
@@ -13,7 +13,7 @@ Extra "binding" & intent builders library for Android. Dart & Henson (DH) uses a
 ## Description of DH 3
 Dart and Henson is a an Android Library that structures the navigation layer of your apps. It helps to create intents and consume them in a structured way. We believe it's the best way to organize your navigation layer, and make it less error-prone and easier to maintain.
 
-It is made of 2 components: Dart and Henson. Both of them use annotated classes (navigation models) that describe the parameters (extras of the intent) of a target activity. DH3 provides a gradle plugin to generate the henson navigator class, and we strongly encourage to use the plugin. See the [samples](https://github.com/f2prateek/dart/tree/master/dart-sample) for more details.
+It is made of 2 components: Dart and Henson. Both of them use annotated classes (navigation models) that describe the parameters (extras of the intent) of a target activity. DH3 provides a gradle plugin to generate the henson navigator class, and we strongly encourage to use the plugin. See the [samples
 
 ## Navigation models
 
