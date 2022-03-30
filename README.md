@@ -3,7 +3,7 @@
 </p>
 ============
 
-This is the README of the version 3 of Dart & Henson has been released. If you are looking for the README page of Dart & Henson 2, please visit [this wiki page](https://github.com/f2prateek/dart/wiki/Dart-&-Henson-v2-). 
+This is the README of the version 3 of Dart & Henson has been released. If you are looking for the README page of Dart & Henson 2, please visit [this wiki page]
 
 ## Summary 
 Extra "binding" & intent builders library for Android. Dart & Henson (DH) uses annotation processing to bind intent's extras to pojo fields, and to generate intent builders via a fluent API.
